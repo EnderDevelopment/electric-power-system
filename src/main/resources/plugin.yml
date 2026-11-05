@@ -1,0 +1,8 @@
+name: EnderElectric
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  power:
+    description: Shows electric power info for the held item or a nearby engine.
+    usage: /power
